@@ -1,0 +1,4 @@
+grafica [10, 15] + 5
+grafica [10, 15] - 5
+grafica [10, 15] * 5
+grafica [10, 15] / 5

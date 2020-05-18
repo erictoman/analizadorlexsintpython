@@ -1,0 +1,5 @@
+a = 5
+grafica [10, 15] + a
+grafica [10, 15] - a
+grafica [10, 15] * a
+grafica [10, 15] / a

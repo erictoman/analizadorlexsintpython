@@ -1,0 +1,6 @@
+A = [10, 15]
+a = 5
+grafica A + a
+grafica A - a
+grafica A * a
+grafica A / a
